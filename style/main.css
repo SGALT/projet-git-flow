@@ -1,0 +1,21 @@
+.banner {
+  height: 60vh;
+  color: white;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  margin: 0;
+}
+
+.btn-blue {
+  background-color: blue;
+  padding: 16px;
+  border-radius: 7px;
+  color: white;
+  text-decoration: none;
+}
